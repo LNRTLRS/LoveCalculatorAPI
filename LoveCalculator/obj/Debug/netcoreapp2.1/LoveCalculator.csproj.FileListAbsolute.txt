@@ -1,0 +1,16 @@
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\bin\Debug\netcoreapp2.1\LoveCalculator.deps.json
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\bin\Debug\netcoreapp2.1\LoveCalculator.runtimeconfig.json
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\bin\Debug\netcoreapp2.1\LoveCalculator.runtimeconfig.dev.json
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\bin\Debug\netcoreapp2.1\LoveCalculator.dll
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\obj\Debug\netcoreapp2.1\LoveCalculator.csprojAssemblyReference.cache
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\obj\Debug\netcoreapp2.1\LoveCalculator.RazorAssemblyInfo.cache
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\obj\Debug\netcoreapp2.1\LoveCalculator.RazorAssemblyInfo.cs
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\obj\Debug\netcoreapp2.1\LoveCalculator.AssemblyInfoInputs.cache
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\obj\Debug\netcoreapp2.1\LoveCalculator.AssemblyInfo.cs
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\obj\Debug\netcoreapp2.1\LoveCalculator.RazorTargetAssemblyInfo.cache
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\bin\Debug\netcoreapp2.1\LoveCalculator.pdb
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\obj\Debug\netcoreapp2.1\LoveCalculator.dll
+C:\Users\Lennert\source\repos\LoveCalculator\LoveCalculator\obj\Debug\netcoreapp2.1\LoveCalculator.pdb
